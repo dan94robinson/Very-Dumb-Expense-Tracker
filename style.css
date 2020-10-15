@@ -1,0 +1,15 @@
+li {
+  list-style: none;
+}
+.th-amount,
+.th-date,
+.th-note {
+  display: inline-block;
+  margin-right: 8rem;
+}
+.new-amount,
+.new-date,
+.new-note {
+  display: inline-block;
+  margin-right: 8rem;
+}
